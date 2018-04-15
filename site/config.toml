@@ -7,10 +7,5 @@ title = "w://"
 
 [[menu.main]]
     name = "Quem sou"
-    url  = "/queum-sou"
+    url  = "/quem-sou"
     weight = 1
-
-[[menu.main]]
-    name = "Food"
-    url  = "/food"
-    weight = 2
