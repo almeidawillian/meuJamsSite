@@ -13,4 +13,4 @@ title = "Will Cozinheiro"
 [[menu.main]]
     name = "Food"
     url  = "/food"
-    weight = 1
+    weight = 2
