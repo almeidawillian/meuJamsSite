@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "w://"
 
 [params]
-  description = "Um futuro Master Chef"
+  description = "Futuro Master Chef..."
 
 [[menu.main]]
     name = "Quem sou"
